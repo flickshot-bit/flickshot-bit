@@ -1,108 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00d4ff&height=200&section=header&text=Aditya%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+# Hey, I'm Aditya Kumar 👋
 
-<br/>
+### Python | Django | React | Frontend | SRE | DevOps
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Python+Developer;Django+%7C+Flask+%7C+React;SRE+%26+DevOps+Engineer;Building+Real+Systems+%F0%9F%94%A5)](https://git.io/typing-svg)
+I don't just learn tech — I build it 🔥
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-2369ab387)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/flickshot-bit)
-[![Views](https://komarev.com/ghpvc/?username=flickshot-bit&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/flickshot-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-2369ab387)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flickshot-bit)
 
 </div>
 
-<br/>
+---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🚀 About Me
 
-## 👋 Hey, I'm Aditya
-```python
-aditya = {
-  "role"    : "SRE | DevOps | Python | Frontend",
-  "college" : "Amity University Jharkhand",
-  "city"    : "Ranchi, India",
-  "mission" : "I don't just learn — I build 🔥"
-}
-```
+BCA student at Amity University building real-world systems.
+Currently focused on SRE, DevOps, Python and Frontend Development.
 
-<br clear="right"/>
+## 🔧 Tech Stack
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
+
+### 🌐 DNS Monitor
+Real-time DNS monitoring system with SSL tracking,
+response time analysis, and live web dashboard.
+
+[![DNS Monitor](https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/flickshot-bit/dns-monitor)
+
+### 🎥 AI CCTV Surveillance
+AI-powered real-time surveillance with automated
+anomaly detection and alert pipeline.
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/flickshot-bit/dns-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=flickshot-bit&repo=dns-monitor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-</a>
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| 🌐 DNS Monitor | 🎥 AI CCTV |
-|---|---|
-| Real-time DNS change detection | AI anomaly detection |
-| SSL certificate tracking | Automated alert pipeline |
-| Live web dashboard | Real-time video processing |
-| Caught Google & Akamai IPs live 🚨 | Sub-second latency |
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,nextjs,js,tailwind,linux,git,sqlite,docker,aws&perline=6"/>
-
-</div>
-
-<br/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flickshot-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff"/>
-
-</div>
-
-<br/>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,aws&perline=4"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=100&section=footer&text=I+don't+just+learn+tech+—+I+build+it+🔥&fontSize=14&fontColor=ffffff&fontAlignY=65"/>
-
-</div>
