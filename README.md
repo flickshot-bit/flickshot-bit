@@ -9,13 +9,13 @@
 <br/>
 
 <a href="https://linkedin.com/in/aditya-kumar-2369ab387">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/flickshot-bit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=flickshot-bit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-00d4ff?style=for-the-badge&logo=circle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00d4ff?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
@@ -27,35 +27,33 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> whoami
-```python
-#!/usr/bin/env python3
+## 👋 whoami
 
-class AdityaKumar:
+🎓 BCA Student at Amity University Jharkhand
 
-    def __init__(self):
-        self.name      = "Aditya Kumar"
-        self.role      = "SRE | DevOps | Python | Frontend"
-        self.college   = "Amity University Jharkhand"
-        self.location  = "📍 Ranchi, India"
-        self.status    = "🟢 Open To Work"
+🔥 I build real systems — not just tutorial projects
 
-    def tech_stack(self):
-        return {
-            "backend"  : ["Python", "Django", "Flask"],
-            "frontend" : ["React", "Next.js", "Tailwind"],
-            "devops"   : ["Linux", "Docker", "Git", "AWS"],
-            "database" : ["SQLite", "PostgreSQL"],
-            "learning" : ["Kubernetes", "CI/CD", "SRE"]
-        }
+🌐 Built a DNS Monitor that caught Google & Akamai changing their IPs live
 
-    def current_focus(self):
-        return "Building systems that work at scale 🔥"
+🤖 Built an AI CCTV Surveillance System with anomaly detection
 
-me = AdityaKumar()
-print(me.current_focus())
-# Output: Building systems that work at scale 🔥
-```
+📍 Ranchi, India &nbsp; | &nbsp; 🟢 Open To Work
+
+**Name:** Aditya Kumar
+
+**Role:** SRE | DevOps | Python | Frontend Developer
+
+**Stack:** Python • Django • Flask • React • Next.js • Tailwind
+
+**DevOps:** Linux • Docker • Git • AWS
+
+**Database:** SQLite • PostgreSQL
+
+**Learning:** Kubernetes • CI/CD • Cloud
+
+**Mission:** I don't just learn tech — I build it 🔥
+
+**Available for:** Internships & Collaborations 🚀
 
 <br clear="right"/>
 
@@ -72,25 +70,30 @@ print(me.current_focus())
 <h3 align="center">🌐 DNS Monitor</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/STATUS-LIVE-00d4ff?style=for-the-badge&logo=circle&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-00d4ff?style=for-the-badge&logoColor=white"/>
 </div>
 
 <br/>
 
-Real-time DNS monitoring system that **caught Google & Akamai changing their IPs live** in production.
-```bash
-🚨 CHANGE DETECTED: akamai.com
-   Old: 23.212.254.81  
-   New: 23.212.164.202
-   Time: 2026-03-13 05:26:11
-```
+Real-time DNS monitoring system that caught Google & Akamai changing their IPs live in production.
 
-✅ DNS records every 60 seconds  
-✅ SSL certificate expiry tracking  
-✅ Response time monitoring  
-✅ Live web dashboard  
-✅ SQLite historical storage  
-✅ SLO: 99.9% uptime  
+🚨 CHANGE DETECTED: akamai.com
+
+⬛ Old: 23.212.254.81
+
+🟦 New: 23.212.164.202
+
+✅ DNS records every 60 seconds
+
+✅ SSL certificate expiry tracking
+
+✅ Response time monitoring
+
+✅ Live web dashboard
+
+✅ SQLite historical storage
+
+✅ SLO: 99.9% uptime
 
 <div align="center">
 <a href="https://github.com/flickshot-bit/dns-monitor">
@@ -104,27 +107,30 @@ Real-time DNS monitoring system that **caught Google & Akamai changing their IPs
 <h3 align="center">🎥 AI CCTV Surveillance</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/STATUS-COMPLETE-00ff88?style=for-the-badge&logo=circle&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETE-00ff88?style=for-the-badge&logoColor=black"/>
 </div>
 
 <br/>
 
 AI-powered real-time surveillance system with automated anomaly detection and instant alert pipeline.
-```python
-def detect_anomaly(frame):
-    result = ai_model.predict(frame)
-    if result.confidence > 0.85:
-        alert.fire_immediately()
-        log.save(frame, timestamp)
-    return result
-```
 
-✅ Real-time video processing  
-✅ AI anomaly detection  
-✅ Sub-second latency  
-✅ Automated alert pipeline  
-✅ Performance monitoring  
-✅ Event logging system  
+🤖 AI Model predicts anomalies in real time
+
+⚡ Sub-second latency processing
+
+🚨 Alert fires instantly on detection
+
+✅ Real-time video processing
+
+✅ AI anomaly detection
+
+✅ Sub-second latency
+
+✅ Automated alert pipeline
+
+✅ Performance monitoring
+
+✅ Event logging system
 
 </td>
 </tr>
@@ -191,22 +197,5 @@ def detect_anomaly(frame):
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/><br/>
-
-### 💬 "I don't just learn tech — I build it" 🔥
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d6b,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Real+Together+🚀&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
 </div>
