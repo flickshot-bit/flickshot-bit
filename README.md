@@ -1,66 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00d4ff&height=200&section=header&text=ADITYA%20KUMAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=00d4ff&strokeWidth=3&desc=Building%20Real%20Systems%20That%20Actually%20Work%20🔥&descSize=18&descAlignY=75&descColor=00d4ff"/>
 
-# Hey, I'm Aditya Kumar 👋
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Python+%7C+Django+%7C+React+Developer;SRE+%26+DevOps+Engineer;I+don't+just+learn+tech+—+I+build+it+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=60&lines=🚀+Python+%7C+Django+%7C+React+Developer;⚡+SRE+%26+DevOps+Engineer;🌐+Building+Production+Systems;🔥+I+don't+just+learn+—+I+build+it;🎯+Open+To+Work)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-2369ab387)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flickshot-bit)
-[![Views](https://komarev.com/ghpvc/?username=flickshot-bit&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/flickshot-bit)
+<br/>
+
+<a href="https://linkedin.com/in/aditya-kumar-2369ab387">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="https://github.com/flickshot-bit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=flickshot-bit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00d4ff?style=for-the-badge&logo=circle&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> whoami
+```python
+#!/usr/bin/env python3
 
-BCA student at Amity University building real-world systems.
-Currently focused on SRE, DevOps, Python and Frontend Development.
+class AdityaKumar:
 
-🔥 Built a DNS Monitor that caught Google & Akamai changing IPs live
+    def __init__(self):
+        self.name      = "Aditya Kumar"
+        self.role      = "SRE | DevOps | Python | Frontend"
+        self.college   = "Amity University Jharkhand"
+        self.location  = "📍 Ranchi, India"
+        self.status    = "🟢 Open To Work"
 
-🤖 Built an AI CCTV Surveillance System
+    def tech_stack(self):
+        return {
+            "backend"  : ["Python", "Django", "Flask"],
+            "frontend" : ["React", "Next.js", "Tailwind"],
+            "devops"   : ["Linux", "Docker", "Git", "AWS"],
+            "database" : ["SQLite", "PostgreSQL"],
+            "learning" : ["Kubernetes", "CI/CD", "SRE"]
+        }
 
-📍 Ranchi, India
+    def current_focus(self):
+        return "Building systems that work at scale 🔥"
+
+me = AdityaKumar()
+print(me.current_focus())
+# Output: Building systems that work at scale 🔥
+```
 
 <br clear="right"/>
 
 ---
 
-## 🔧 Tech Stack
+## ⚡ What I Actually Built
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 DNS Monitor</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-LIVE-00d4ff?style=for-the-badge&logo=circle&logoColor=white"/>
+</div>
+
+<br/>
+
+Real-time DNS monitoring system that **caught Google & Akamai changing their IPs live** in production.
+```bash
+🚨 CHANGE DETECTED: akamai.com
+   Old: 23.212.254.81  
+   New: 23.212.164.202
+   Time: 2026-03-13 05:26:11
+```
+
+✅ DNS records every 60 seconds  
+✅ SSL certificate expiry tracking  
+✅ Response time monitoring  
+✅ Live web dashboard  
+✅ SQLite historical storage  
+✅ SLO: 99.9% uptime  
+
+<div align="center">
+<a href="https://github.com/flickshot-bit/dns-monitor">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎥 AI CCTV Surveillance</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETE-00ff88?style=for-the-badge&logo=circle&logoColor=black"/>
+</div>
+
+<br/>
+
+AI-powered real-time surveillance system with automated anomaly detection and instant alert pipeline.
+```python
+def detect_anomaly(frame):
+    result = ai_model.predict(frame)
+    if result.confidence > 0.85:
+        alert.fire_immediately()
+        log.save(frame, timestamp)
+    return result
+```
+
+✅ Real-time video processing  
+✅ AI anomaly detection  
+✅ Sub-second latency  
+✅ Automated alert pipeline  
+✅ Performance monitoring  
+✅ Event logging system  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Tech Arsenal
 
-### 🌐 DNS Monitor
-Real-time DNS monitoring system with SSL tracking,
-response time analysis, and live web dashboard.
+<div align="center">
 
-[![DNS Monitor](https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/flickshot-bit/dns-monitor)
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,nextjs,js,tailwind,linux,git,sqlite,docker,aws,postgres,vscode&perline=7"/>
 
-### 🎥 AI CCTV Surveillance
-AI-powered real-time surveillance with automated
-anomaly detection and alert pipeline.
+</div>
+
+<br/>
+
+<div align="center">
+
+| Category | Technologies |
+|:---:|:---:|
+| 🐍 Backend | Python • Django • Flask • REST APIs |
+| ⚛️ Frontend | React • Next.js • Tailwind CSS • JavaScript |
+| 🔧 DevOps & SRE | Linux • Docker • Git • CI/CD • Monitoring |
+| 🗄️ Database | SQLite • PostgreSQL • SQL |
+| ☁️ Cloud | AWS • GCP (Learning) |
+
+</div>
 
 ---
 
@@ -68,11 +162,32 @@ anomaly detection and alert pipeline.
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="180"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flickshot-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flickshot-bit&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e" width="700"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres&perline=4"/>
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -80,10 +195,18 @@ anomaly detection and alert pipeline.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
 
 ### 💬 "I don't just learn tech — I build it" 🔥
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d6b,100:0d1117&height=100&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d6b,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Real+Together+🚀&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
 </div>
