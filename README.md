@@ -53,17 +53,11 @@ Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; AWS &nbsp;•&nbsp; PostgreSQL
 
 ---
 
-## 📊 GitHub Streak
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flickshot-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 💬 "I don't just learn tech — I build it" 🔥
 
