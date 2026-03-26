@@ -42,7 +42,7 @@ I’m a **React-focused developer** who builds **complete systems** — from UI 
 
 ### 💧 WQI Calculator *(Live Project)*
 
-🔗 **Live Demo:** https://your-actual-wqi-link.com
+🔗 **Live Demo:** https://wqi-calculator.onrender.com/
 📂 **GitHub Repo:** https://github.com/flickshot-bit/wqi-calculator
 
 #### 📌 Overview
