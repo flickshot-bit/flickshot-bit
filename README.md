@@ -42,7 +42,7 @@ I’m a **React-focused developer** who builds **complete systems** — from UI 
 
 ### 💧 WQI Calculator *(Live Project)*
 
-🔗 **Live Demo:** https://wqi-calculator.onrender.com
+🔗 **Live Demo:** https://your-actual-wqi-link.com
 📂 **GitHub Repo:** https://github.com/flickshot-bit/wqi-calculator
 
 #### 📌 Overview
@@ -156,14 +156,10 @@ This mindset is why I’m exploring:
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=flickshot-bit&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
+> “First, solve the problem. Then, write the code.”
+> — John Johnson
 
 ---
 
