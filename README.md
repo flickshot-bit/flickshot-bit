@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1f4037,100:99f2c8&height=170&section=header&text=Aditya%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1>🚀 Aditya Kumar</h1>
+<h1>⚙️ Aditya Kumar</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&width=800\&lines=React+%7C+Next.js+Developer;Frontend+Engineer+with+System+Thinking;Backend+%26+DevOps+Enthusiast;Building+Real-World+Systems+⚙️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&pause=1000\&color=00FFB3\&center=true\&vCenter=true\&width=850\&lines=Python+%7C+Backend+%7C+DevOps+Engineer;Building+Scalable+Backend+Systems;Learning+FastAPI+%2B+Docker+%2B+AWS+%2B+CI%2FCD;Understanding+Systems+End-to-End+⚙️)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 <a href="https://github.com/flickshot-bit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Open%20To%20Work-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00FFB3?style=for-the-badge"/>
 
 </div>
 
@@ -22,17 +22,17 @@
 
 ## 🧠 About Me
 
-I’m a **React-focused developer** who builds **complete systems** — from UI to backend logic.
+I’m a **Python Backend & DevOps-focused developer** building systems that are designed to **run, scale, and stay reliable**.
 
 🎓 BCA @ Amity University Jharkhand
 📍 Ranchi, India
 
-* ⚡ Frontend: React, Tailwind
-* 🧩 Learning: Next.js (full-stack apps)
-* 🛠️ Backend: Flask, Django, FastAPI
-* ☁️ Exploring: DevOps, system design, scalability
+* 🐍 Backend: Python (Flask, Django)
+* ⚙️ DevOps: Learning Docker, AWS, CI/CD
+* 🚀 Exploring: FastAPI (modern backend systems)
+* 🌐 Frontend Knowledge: HTML, CSS, JavaScript, React
 
-> I focus on building systems that are not just functional — but **practical, structured, and production-oriented**.
+> I understand how systems work **end-to-end — from frontend → backend → infrastructure**.
 
 ---
 
@@ -40,52 +40,26 @@ I’m a **React-focused developer** who builds **complete systems** — from UI 
 
 ---
 
-### 💧 WQI Calculator *(Live Project)*
-
-🔗 **Live Demo:** https://wqi-calculator.onrender.com/
-📂 **GitHub Repo:** https://github.com/flickshot-bit/wqi-calculator
-
-#### 📌 Overview
-
-A system that transforms raw environmental data into a **Water Quality Index (WQI)** for meaningful interpretation.
-
-#### ⚙️ Key Features
-
-* Scientific WQI calculation
-* Multi-parameter input (pH, turbidity, etc.)
-* Clean UI for easy understanding
-* Designed for future IoT-based data integration
-
-#### 🧠 System Flow
-
-User Input → Backend Processing → WQI Calculation → Result Output
-
-#### 🛠️ Tech Stack
-
-Python • Flask
-
----
-
-### 🌐 DNS Monitoring System *(Backend / DevOps-Oriented Project)*
+### 🌐 DNS Monitoring System *(Backend / DevOps-Oriented)*
 
 📂 **GitHub Repo:** https://github.com/flickshot-bit/dns-monitor
 
 #### 📌 Overview
 
-A backend-focused system designed to monitor **DNS changes and SSL certificate status**.
+A backend system designed to monitor **DNS changes and SSL certificate health**.
 
 #### ⚙️ Key Features
 
 * DNS record change detection
-* SSL certificate validation logic
-* Historical tracking of domain data
-* Backend-first monitoring design
+* SSL certificate validation
+* Historical data tracking
+* Backend monitoring workflow
 
 #### 🧠 Engineering Focus
 
-* Working with network-level data (DNS resolution)
-* Designing monitoring workflows
-* Structuring backend services
+* Network-level data handling
+* Monitoring system design
+* Backend service structuring
 
 #### 🛠️ Tech Stack
 
@@ -93,25 +67,52 @@ Python • Flask • SQLite
 
 ---
 
-### 🎥 AI CCTV Surveillance *(Computer Vision Project)*
+### 💧 WQI Calculator *(Deployed System)*
+
+🔗 **Live Demo:** https://wqi-calculator.onrender.com/
+📂 **GitHub Repo:** https://github.com/flickshot-bit/wqi-calculator
+
+#### 📌 Overview
+
+A backend-driven system that calculates **Water Quality Index (WQI)** from environmental data.
+
+#### ⚙️ Features
+
+* Scientific calculation logic
+* Multi-parameter processing
+* Clean output system
+
+#### 🧠 Engineering Focus
+
+* Data processing pipelines
+* Backend logic design
+* Real-world problem solving
+
+#### 🛠️ Tech Stack
+
+Python • Flask
+
+---
+
+### 🎥 AI CCTV Surveillance *(System + AI Exploration)*
 
 📂 **GitHub Repo:** https://github.com/flickshot-bit/ai-cctv
 
 #### 📌 Overview
 
-A computer vision-based system for detecting unusual activity in video streams.
+A system for detecting anomalies in video streams using computer vision.
 
 #### ⚙️ Features
 
-* Real-time video frame processing
+* Real-time video processing
 * Basic anomaly detection
-* Computer vision pipeline setup
+* Vision pipeline
 
 #### 🧠 Engineering Focus
 
-* Working with real-time data streams
-* Understanding video processing pipelines
-* Applying AI/ML concepts in practical scenarios
+* Real-time systems
+* Data stream handling
+* Applied AI concepts
 
 #### 🛠️ Tech Stack
 
@@ -119,20 +120,12 @@ Python • OpenCV
 
 ---
 
-## 🧩 How I Think as a Developer
+## ⚙️ Core Focus
 
-I approach projects with a **system mindset**:
-
-* How does the data flow?
-* What happens under load?
-* Where can it fail?
-* How can it scale?
-
-This mindset is why I’m exploring:
-
-* DevOps ⚙️
-* System Design 🧠
-* Reliability Engineering 🚀
+* Backend system design
+* Monitoring & automation tools
+* Writing scalable Python services
+* Understanding system behavior in production
 
 ---
 
@@ -140,46 +133,48 @@ This mindset is why I’m exploring:
 
 <div align="center">
 
-### 🖥️ Frontend
+### 🐍 Backend & Programming
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,react&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask&perline=3"/>
 
-### ⚙️ Backend
+### ⚡ Modern Backend (Learning)
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&perline=4"/>
+<img src="https://skillicons.dev/icons?i=fastapi&perline=1"/>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud (Learning)
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&perline=4"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git&perline=4"/>
+
+### 🌐 Frontend Knowledge
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4"/>
 
 </div>
 
 ---
 
-## 💬 Philosophy
-
-> “First, solve the problem. Then, write the code.”
-> — John Johnson
-
----
-
 ## 🌱 Currently Learning
 
-* Next.js ⚡
-* Advanced React patterns
-* Docker 🐳
-* Kubernetes ☸️
-* AWS ☁️
-* CI/CD ⚙️
+* FastAPI (high-performance backend APIs)
+* Docker (containerization)
+* AWS (EC2, S3 basics)
+* CI/CD pipelines
+* Deployment & system reliability
 
 ---
 
-## 🎯 Current Focus
+## 🧩 How I Think
 
-* Building **modern React + Next.js applications**
-* Strengthening **backend system design**
-* Exploring **DevOps tools & workflows**
-* Improving **real-world problem-solving skills**
+* How does data flow across the system?
+* What happens under failure?
+* How can it scale efficiently?
+
+---
+
+## 💬 Philosophy
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> — Harold Abelson
 
 ---
 
@@ -187,18 +182,18 @@ This mindset is why I’m exploring:
 
 I’m open to:
 
-* Internships
-* Real-world projects
-* Collaboration opportunities
+* Backend / DevOps internships
+* Real-world system projects
+* Collaboration on infrastructure tools
 
-📩 Let’s connect on LinkedIn and build something meaningful.
+📩 Let’s connect and build something meaningful.
 
 ---
 
 <div align="center">
 
-🔥 *“Good UI attracts users. Strong systems keep them.”*
+⚙️ *“Build systems that don’t just run — but survive.”*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99f2c8,50:1f4037,100:0f2027&height=140&section=footer"/>
 
 </div>
