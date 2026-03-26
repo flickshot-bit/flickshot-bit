@@ -137,11 +137,11 @@ Python • OpenCV
 
 <img src="https://skillicons.dev/icons?i=python,django,flask&perline=3"/>
 
-### ⚡ Modern Backend (Learning)
+### ⚡ Modern Backend 
 
 <img src="https://skillicons.dev/icons?i=fastapi&perline=1"/>
 
-### ☁️ DevOps & Cloud (Learning)
+### ☁️ DevOps & Cloud 
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&perline=4"/>
 
