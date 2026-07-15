@@ -1,264 +1,391 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:0d3320,100:1f4037&height=220&section=header&text=Aditya%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=00FFB3"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&lines=Python+%7C+Flask+%7C+Django+%7C+FastAPI;Building+Scalable%2C+Reliable+Backend+Systems;Learning+Docker+%7C+AWS+%7C+CI%2FCD+%7C+DevOps;End-to-End+Systems+Thinker+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-2369ab387)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flickshot-bit)
-![Open To Work](https://img.shields.io/badge/%E2%9C%85_Open_To_Work-00FFB3?style=for-the-badge&logoColor=black)
-![BCA](https://img.shields.io/badge/BCA-Amity_University-7F77DD?style=for-the-badge)
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/flickshot-bit/count.svg)
-
-</div>
-
-<br/>
-
----
-
-## `> whoami`
-
-```python
-class AdityaKumar:
-    name       = "Aditya Kumar"
-    location   = "Ranchi, India 📍"
-    education  = "BCA @ Amity University Jharkhand 🎓"
-    focus      = ["Backend Engineering", "DevOps", "System Design"]
-    learning   = ["FastAPI", "Docker", "AWS", "CI/CD Pipelines"]
-    stack      = ["Python", "Flask", "Django", "SQLite", "Linux", "Git"]
-    frontend   = ["HTML", "CSS", "JavaScript", "React"]
-    goal       = "Production-grade Backend + DevOps Engineering"
-    status     = "🟢 OPEN TO WORK"
-```
-
-> I understand systems **end-to-end** — from how a request enters the frontend, moves through the backend, and lands in infrastructure. Every layer matters.
-
----
-
-## `> tech_arsenal`
-
-<div align="center">
-
-### 🐍 Backend & Programming
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&perline=4"/>
-
-### ☁️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git&perline=4"/>
-
-### 🌐 Frontend Knowledge
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4"/>
-
-</div>
-
----
-
-## `> skill_proficiency`
-
-```
-  Backend Engineering  ████████████████████░░  90%  ██ Senior Focus
-  Python               ███████████████████░░░  85%  ██ Core Language
-  System Design        ██████████████████░░░░  80%  ██ Strong Grasp
-  Flask / Django       █████████████████░░░░░  78%  ██ Production Ready
-  Linux                ████████████████░░░░░░  72%  ██ Comfortable
-  FastAPI              ██████████████░░░░░░░░  65%  ▓▓ Active Learning
-  Docker               █████████████░░░░░░░░░  60%  ▓▓ Active Learning
-  AWS (EC2/S3)         ████████████░░░░░░░░░░  55%  ▓▓ In Progress
-  CI/CD Pipelines      ██████████░░░░░░░░░░░░  50%  ░░ Exploring
-```
-
----
-
-## `> featured_projects`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 DNS Monitoring System
-**Backend / DevOps-Oriented**
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/flickshot-bit/dns-monitor)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
-
-Monitors **DNS record changes** and **SSL certificate health** in real-time.
-
-```
-📡 DNS change detection
-🔐 SSL certificate validation  
-📊 Historical data tracking
-⚙️  Backend monitoring workflow
-```
-
-> The kind of silent failure that takes production down — now visible.
-
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="55%">
 
-### 💧 WQI Calculator
-**Deployed Production System**
+```bash
+guest@flickshot-bit:~$ whoami
 
-[![Live](https://img.shields.io/badge/Live_Demo-00FFB3?style=flat-square&logo=render&logoColor=black)](https://wqi-calculator.onrender.com/)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/flickshot-bit/wqi-calculator)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+Name        : Aditya Kumar
+Username    : flickshot-bit
+Role        : MCA Student
+University  : Amity University
+Location    : India
+OS          : macOS
+Editor      : VS Code
+Shell       : zsh
+Focus       : Cybersecurity
+Learning    : AI • Cloud • Full Stack
 
-Calculates **Water Quality Index** from multi-parameter environmental data.
-
+guest@flickshot-bit:~$ _
 ```
-🧮 Scientific calculation logic
-📦 Multi-parameter processing
-🚀 Deployed on Render (live)
-🌍 Real-world problem solved
-```
-
-> Not a tutorial project — a real deployed backend service.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎥 AI CCTV Surveillance
-**Computer Vision + Systems**
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/flickshot-bit/ai-cctv)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-Detects anomalies in **live video streams** using computer vision.
-
-```
-📹 Real-time video processing
-🤖 Basic anomaly detection
-🔁 Continuous data streams
-🧠 Applied AI concepts
-```
-
-> Explores how systems handle high-frequency, real-time data pipelines.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Core Engineering Focus
-
-```
-✦ Backend System Design
-✦ Monitoring & Observability
-✦ Automation Workflows
-✦ Scalable Python Services
-✦ Production Reliability
-✦ Infrastructure Thinking
-```
-
-> I build for the failure I haven't imagined yet — and the scale I'll need tomorrow.
 
 </td>
 </tr>
 </table>
 
----
-
-## `> learning_roadmap`
-
-```
-  Current Mission — 2024/25
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  🟢 FastAPI          ██████████████░░░░░░  70%   Active
-  🟢 Docker           █████████████░░░░░░░  60%   Active
-  🔵 AWS (EC2 · S3)   ████████████░░░░░░░░  50%   In Progress
-  🔵 CI/CD Pipelines  ██████████░░░░░░░░░░  45%   Exploring
-  ⚪ Reliability Eng. ████████░░░░░░░░░░░░  35%   Next Focus
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Target → Production-ready Backend + DevOps Engineer
-```
-
----
-
-## `> engineering_mindset`
-
-| Principle | What It Means |
-|-----------|---------------|
-| ✅ **Data Flow Thinking** | How does data move across every layer — frontend → backend → infra? |
-| ✅ **Failure Analysis** | What breaks first, and what's the blast radius when it does? |
-| ✅ **Scalability First** | Will this hold at 10× load? Design for growth from commit one. |
-| ✅ **Automation Mindset** | If it's manual and repeated, it should not exist. |
-| ✅ **Production Readiness** | Monitoring, recovery, and reliability — not an afterthought. |
-
----
-
-## `> philosophy`
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — **Harold Abelson**
-
-> *"A system is only as reliable as its weakest unmonitored component."*
-
-> *"Build for the failure you haven't imagined yet."*
-
----
-
-## `> github_analytics`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff"/>
-
-<br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=flickshot-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=flickshot-bit&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flickshot-bit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff"/>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## `> connect`
+<!-- ============================================================ -->
+<!--                          ABOUT ME                             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-**I'm actively looking for:**
-
-| Role | Status |
-|------|--------|
-| 🐍 Backend Engineering Internship | ✅ Open |
-| ⚙️ DevOps / Infrastructure Internship | ✅ Open |
-| 🔧 Real-world System Projects | ✅ Open |
-| 🌐 Open Source Collaboration | ✅ Open |
-
-<br/>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-2369ab387)
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flickshot-bit)
-
-<br/>
-
-📩 *Let's connect and build something meaningful.*
+## `About Me`
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td>
+
+```bash
+> cat about_me.md
+```
+
+- I am an **MCA student at Amity University**, India, currently sharpening my skills in **Cybersecurity, AI & Automation, and Full Stack Development**.
+- I like breaking things to understand how they work — then rebuilding them **securely**.
+- Currently exploring **ethical hacking, cloud security, and networking fundamentals** alongside modern web development.
+- I build practical projects instead of just following tutorials — automation tools, web apps, and security-focused experiments.
+- Long-term goal: become a well-rounded engineer who can **secure systems and build intelligent software**, not just one or the other.
+- Open to internships, collaborations, and interesting open-source projects.
+
+```bash
+> echo "Currently working on real-world projects while learning in public."
+Currently working on real-world projects while learning in public.
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,40:1f4037,100:0f2027&height=180&section=footer&text=Build%20systems%20that%20don't%20just%20run%20—%20but%20survive.&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+| ⚡ Fun Fact | 🎯 Current Goal | 🛠️ Currently Building |
+|:---:|:---:|:---:|
+| I prefer terminal over GUI | Master Cybersecurity fundamentals | AI-powered automation tools |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                        TECH STACK                             -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `Tech Stack`
+
+```bash
+> ls -la ./skills
+```
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,html,css,mongodb,mysql,git,github,linux,bash,vscode,firebase,figma,django&theme=dark" />
+
+<br/><br/>
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=39FF14)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=39FF14)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39FF14)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=39FF14)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=39FF14)
+
+### Tools & Platform
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=39FF14)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                       GITHUB STATS                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `GitHub Stats`
+
+```bash
+> fetch --stats flickshot-bit
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=flickshot-bit&show_icons=true&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flickshot-bit&layout=compact&theme=dark&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false&langs_count=8" width="48%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                  GITHUB ACTIVITY GRAPH                        -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `GitHub Activity Graph`
+
+```bash
+> tail -f ./activity.log
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flickshot-bit&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=false" width="95%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                      GITHUB TROPHIES                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `GitHub Trophies`
+
+```bash
+> unlock --achievements flickshot-bit
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=flickshot-bit&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                     FEATURED PROJECTS                         -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `Featured Projects`
+
+```bash
+> ls -la ./projects --sort=recent
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Job Scraper
+
+An automation tool that scrapes job listings from multiple sources, filters them using intelligent matching, and delivers curated results — built to save hours of manual job hunting.
+
+**Stack:** Python • Automation • Web Scraping • AI Filtering
+
+<!-- Replace with your actual repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/flickshot-bit/ai-job-scraper)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+
+A personal portfolio built to showcase projects, skills, and experience with a clean, fast, and responsive design.
+
+**Stack:** React • HTML • CSS • JavaScript
+
+<!-- Replace with your actual repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/flickshot-bit/portfolio-website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛ React Calculator
+
+A functional calculator app built with React to practice component architecture, state management, and clean UI logic.
+
+**Stack:** React • JavaScript • CSS
+
+<!-- Replace with your actual repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/flickshot-bit/react-calculator)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 News Website
+
+A dynamic news aggregator that fetches and displays live articles using a public API, with category filtering and a responsive layout.
+
+**Stack:** JavaScript • API Integration • HTML/CSS
+
+<!-- Replace with your actual repo link -->
+[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/flickshot-bit/news-website)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                     CURRENT LEARNING                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `Current Learning`
+
+```bash
+> tail -n 6 ./learning_path.log
+```
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+**Python**
+<br/>
+`in progress`
+
+</td>
+<td align="center" width="16%">
+
+**React**
+<br/>
+`in progress`
+
+</td>
+<td align="center" width="16%">
+
+**Linux**
+<br/>
+`in progress`
+
+</td>
+<td align="center" width="17%">
+
+**Networking**
+<br/>
+`in progress`
+
+</td>
+<td align="center" width="17%">
+
+**Cloud Security**
+<br/>
+`in progress`
+
+</td>
+<td align="center" width="18%">
+
+**Ethical Hacking**
+<br/>
+`in progress`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                    CONNECT WITH ME                             -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `Connect With Me`
+
+```bash
+> cat ./contact.txt
+```
+
+<!-- Replace the href values below with your real links -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=39FF14)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/flickshot-bit)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                     VISITOR COUNTER                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## `Visitor Counter`
+
+![Visitor Count](https://komarev.com/ghpvc/?username=flickshot-bit&label=TOTAL%20VISITORS&color=39FF14&style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!--                          FOOTER                                -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```bash
+guest@flickshot-bit:~$ echo "Code • Learn • Build • Secure"
+Code • Learn • Build • Secure
+
+guest@flickshot-bit:~$ exit
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a1a,100:0d1117&height=120&section=footer" width="100%"/>
+
+**Thanks for stopping by. Feel free to explore my repositories and connect.**
 
 </div>
